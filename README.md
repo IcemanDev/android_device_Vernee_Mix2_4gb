@@ -1,1 +1,1 @@
-# android_device_Vernee_Mix2_4gb
+# android_device_Vernee_Mix2_4gb 
